@@ -1,0 +1,12 @@
+public class hello{
+    public static void main(String[] args) {
+        int age=20;
+        char grade ='A';
+        double salary= 90000.50;
+        String name="madhu";
+        System.out.println("Name: " + name);
+        System.out.println("Age: " + age);
+        System.out.println("Grade: " + grade);
+        System.out.println("Salary: " + salary);
+    }
+}
