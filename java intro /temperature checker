@@ -1,0 +1,12 @@
+public class hello{
+   public static void main(String[] args){
+        float temperature =30;
+        if(temperature>25){
+            System.out.println("It's a hot day");
+        }
+            else
+            {
+                System.out.println("It's a cold day");
+            }
+        }
+   }
