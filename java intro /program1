@@ -1,0 +1,13 @@
+public class hello {
+    public static void main(String[] args) {
+         String name="madhu";
+         int age=20;
+         String college ="ksr";
+         System.out.println("Name: " + name);
+         System.out.println("Age: " + age);
+         System.out.println("College: " + college);
+            System.out.print(name);
+            System.out.print( age);
+            System.out.print( college);
+    }
+}
